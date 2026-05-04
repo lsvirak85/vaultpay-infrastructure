@@ -1,2 +1,3 @@
-# vaultpay-infrastructure hello world
-AWS Cloud Project
+# VaultPay Infrastructure
+
+Hello world!
